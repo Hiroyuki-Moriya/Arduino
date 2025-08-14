@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../calc"
+		},
+		{
+			"name": "sw_count",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
