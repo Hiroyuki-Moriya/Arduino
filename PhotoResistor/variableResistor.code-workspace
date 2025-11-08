@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../variableResistor"
+		},
+		{
+			"name": "PhotoResistor",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
